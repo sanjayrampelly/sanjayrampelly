@@ -21,7 +21,7 @@
 
 ## 🚀 About Me
 
-- 💼 Backend Developer with **3.5+ years** at **TCS** — currently building APIs for **Visa Inc.** and previously for **BT Group** (Jun 2022 – Jul 2025)
+- 💼 Backend Developer with **4 years** at **TCS** — currently building APIs for **Visa Inc.** and previously for **BT Group** (Jun 2022 – Jul 2025)
 - 🐍 Day-to-day in **FastAPI**, **Django**, **DRF** and **PostgreSQL**; ship secure REST APIs with **JWT / OAuth2** and auto-generated **OpenAPI / Swagger** docs
 - 🤖 Building production-style **RAG pipelines** with **Pinecone + Groq + LangChain** and **multi-tenant SaaS** backends on the side
 - 🛠️ Use **GitHub Copilot** and **Claude Code** daily for code generation, refactoring, and review
